@@ -1,3 +1,5 @@
+# https://level.goorm.io/exam/43171/%EC%96%B4%EB%8A%90-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%95%BC%EA%B8%B0/quiz/1
+
 import sys
 
 data = list(str(sys.stdin.readline()))
